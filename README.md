@@ -4,6 +4,8 @@
 - 💞️ We're looking to collaborate on Electic Vehicle Charging Stations infrastracture and community. OhmJet focused on Residential charging stations and open to collobarations with hardware manufacturers.
 - 📫 If you have any questions or you woudl like to help us develop and raise our project please reach me out via enaul ohmjetdotcom@gmail.com
 
+What is OhmJet and Why our founder used this two amazing words: Ohm and Jet
+
 
 <!---
 ohmjet/ohmjet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
