@@ -14,6 +14,9 @@ Infromation from public sources :
 Jet is a strong narrow stream of gas, liquid or flame that comes very quickly out of a small opening. The opening is also called a jet.
 In our case and for us Jet is electricy stream something innovative that could rapidly change the world. 
 
+![OhmJet](https://github.com/user-attachments/assets/a61a575e-0f3d-4700-89f9-65c2f2400ced)
+
+
 
 
 <!---
